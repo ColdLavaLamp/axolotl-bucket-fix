@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# Axolotl Bucket Fix
+Fabric MC mod to make the axolotl bucket item show the right axolotl type.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix
