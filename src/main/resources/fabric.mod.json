@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "axolotlitemfix",
+  "version": "${version}",
+
+  "name": "Axolotl Item Fix",
+  "description": "Makes the axolotl bucket item show the right axolotl type.",
+  "authors": [
+    "ColdLavaLamp"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/axolotlitemfix/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "easton.axolotlitemfix.AxolotlItemFixMain"
+    ]
+  },
+  "mixins": [
+    "axolotlitemfix.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}

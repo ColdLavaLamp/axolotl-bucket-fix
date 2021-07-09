@@ -1,0 +1,78 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/axolotl_bucket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "variant": 0,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "variant": 0.1,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_1_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.1,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_1"
+    },
+    {
+      "predicate": {
+        "variant": 0.2,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_2_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.2,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_2"
+    },
+    {
+      "predicate": {
+        "variant": 0.3,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_3_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.3,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_3"
+    },
+    {
+      "predicate": {
+        "variant": 0.4,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_4_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.4,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_4"
+    }
+  ]
+}
