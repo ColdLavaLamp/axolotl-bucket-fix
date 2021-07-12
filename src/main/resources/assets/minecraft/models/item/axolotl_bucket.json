@@ -20,59 +20,171 @@
     },
     {
       "predicate": {
-        "variant": 0.1,
+        "variant": 0.01,
         "age": 0
       },
       "model": "axolotlitemfix:item/axolotl_bucket_1_baby"
     },
     {
       "predicate": {
-        "variant": 0.1,
+        "variant": 0.01,
         "age": 1
       },
       "model": "axolotlitemfix:item/axolotl_bucket_1"
     },
     {
       "predicate": {
-        "variant": 0.2,
+        "variant": 0.02,
         "age": 0
       },
       "model": "axolotlitemfix:item/axolotl_bucket_2_baby"
     },
     {
       "predicate": {
-        "variant": 0.2,
+        "variant": 0.02,
         "age": 1
       },
       "model": "axolotlitemfix:item/axolotl_bucket_2"
     },
     {
       "predicate": {
-        "variant": 0.3,
+        "variant": 0.03,
         "age": 0
       },
       "model": "axolotlitemfix:item/axolotl_bucket_3_baby"
     },
     {
       "predicate": {
-        "variant": 0.3,
+        "variant": 0.03,
         "age": 1
       },
       "model": "axolotlitemfix:item/axolotl_bucket_3"
     },
     {
       "predicate": {
-        "variant": 0.4,
+        "variant": 0.04,
         "age": 0
       },
       "model": "axolotlitemfix:item/axolotl_bucket_4_baby"
     },
     {
       "predicate": {
-        "variant": 0.4,
+        "variant": 0.04,
         "age": 1
       },
       "model": "axolotlitemfix:item/axolotl_bucket_4"
+    },
+    {
+      "predicate": {
+        "variant": 0.05,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_lucia_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.05,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_lucia"
+    },
+    {
+      "predicate": {
+        "variant": 0.06,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_wilder_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.06,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_wilder"
+    },
+    {
+      "predicate": {
+        "variant": 0.07,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_golden_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.07,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_golden"
+    },
+    {
+      "predicate": {
+        "variant": 0.08,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_green_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.08,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_green"
+    },
+    {
+      "predicate": {
+        "variant": 0.09,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_skulk_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.09,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_skulk"
+    },
+    {
+      "predicate": {
+        "variant": 0.10,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_black_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.10,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_black"
+    },
+    {
+      "predicate": {
+        "variant": 0.11,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_red_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.11,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_red"
+    },
+    {
+      "predicate": {
+        "variant": 0.12,
+        "age": 0
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_glowxolotl_baby"
+    },
+    {
+      "predicate": {
+        "variant": 0.12,
+        "age": 1
+      },
+      "model": "axolotlitemfix:item/axolotl_bucket_glowxolotl"
     }
   ]
 }
